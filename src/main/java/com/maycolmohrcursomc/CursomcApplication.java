@@ -34,8 +34,6 @@ import com.maycolmohrcursomc.repositories.ProdutoRepository;
 @SpringBootApplication
 public class CursomcApplication implements CommandLineRunner {
 	
-	//teste teste teste teste
-	
 	@Autowired
 	private CategoriaRepository categoriaRepository;
 	
